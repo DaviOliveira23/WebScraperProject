@@ -4,13 +4,13 @@
 
 2° Instalar uma IDE: Você precisará de uma IDE que suporte Java. Recomendo o IntelliJ IDEA ou o Visual Studio.
 
-3° Configurar a IDE: Abra a IDE escolhida e siga as instruções na tela para configurá-la adequadamente.
+3° Configurar a IDE: Abra a IDE escolhida e siga as instruções na tela para configurá-la adequadamente. Se a IDE sugerir a instalação de extensões ou bibliotecas externas, aceite essas sugestões para garantir que o código funcione corretamente.
 
 4° Abrir o Projeto: Na IDE, abra a pasta que você extraiu do arquivo ZIP.
 
 5° Processar Arquivos: Aguarde enquanto a IDE processa todos os arquivos e suas dependências.
 
-6° Instalar Dependências: Se a IDE sugerir a instalação de extensões ou bibliotecas externas, aceite essas sugestões para garantir que o código funcione corretamente.
+6° Abrindo pastas: No lado esquerdo da Idea estará a pasta que você selecionou para carregar, procure dentro dela por uma subpasta chamada "controler" e dentro dela estará o arquivo "WebScraping", abra-o.
 
 7° Iniciar a Execução: Na barra superior, procure por um ícone de seta verde (normalmente no canto direito). Se não houver pendências, clique na seta para iniciar a execução do código.
 
