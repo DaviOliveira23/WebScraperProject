@@ -10,7 +10,7 @@
 
 5° Processar Arquivos: Aguarde enquanto a IDE processa todos os arquivos e suas dependências.
 
-6° Abrindo pastas: No lado esquerdo da Idea estará a pasta que você selecionou para carregar, procure dentro dela por uma subpasta chamada "controler" e dentro dela estará o arquivo "WebScraping", abra-o.
+6° Abrindo pastas: No lado esquerdo da IDE estará a pasta que você selecionou para carregar, procure dentro dela por uma subpasta chamada "controler" e dentro dela estará o arquivo "WebScraping", abra-o.
 
 7° Iniciar a Execução: Na barra superior, procure por um ícone de seta verde (normalmente no canto direito). Se não houver pendências, clique na seta para iniciar a execução do código.
 
