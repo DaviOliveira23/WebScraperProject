@@ -2,7 +2,7 @@
 
 1° Baixar o Código: Acesse o repositório do projeto no GitHub e baixe o arquivo ZIP que contém o código. Extraia o conteúdo em uma pasta de sua escolha.
 
-2° Instalar uma IDE: Você precisará de uma IDE que suporte Java. Recomendo o IntelliJ IDEA ou o Visual Studio.
+2° Instalar uma IDE: Você precisará de uma IDE que suporte Java. Recomendo o IntelliJ IDEA(https://www.jetbrains.com/pt-br/idea/download/?section=windows) ou o Visual Studio(https://code.visualstudio.com/download).
 
 3° Configurar a IDE: Abra a IDE escolhida e siga as instruções na tela para configurá-la adequadamente. Se a IDE sugerir a instalação de extensões ou bibliotecas externas, aceite essas sugestões para garantir que o código funcione corretamente.
 
