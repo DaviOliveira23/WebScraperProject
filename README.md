@@ -18,11 +18,11 @@
 
 9° Manter o Internet Explorer Visível: A janela do Internet Explorer deve permanecer aberta e visível durante todo o processo, mesmo que em segundo plano.
 
-10° Inserir o Nome do Produto: Quando o Internet Explorer carregar a página da "Netshoes", você verá no terminal da IDE a mensagem "Escreva o nome do produto: ". Digite o nome do produto desejado e pressione "Enter".
+10° Inserir o Nome do Produto: Quando o Internet Explorer carregar a página da "Netshoes", você verá no terminal da IDE a seguinte mensagem "Escreva o nome do produto: ". Digite o nome do produto desejado e pressione "Enter".
 
 11° Processamento dos Dados: O programa irá percorrer a página do Internet Explorer para extrair as informações dos produtos.
 
-12° Exibir Resultados: Depois de completar a extração, todos os produtos encontrados que correspondem ao nome que você digitou serão exibidos no terminal da IDE.
+12° Exibir Resultados: Depois de completar a extração, todos os produtos encontrados que correspondem ao nome que você digitou serão exibidos no terminal da IDE com suas respectivas informações.
 
 13° Confirmação de Criação da Planilha: Aguarde até que apareça uma mensagem flutuante indicando "Planilha criada com sucesso".
 
