@@ -63,8 +63,8 @@ public class WebScraping {
         while (true) {
             long initialHeight = (long) js.executeScript("return document.body.scrollHeight");
             for (int i = 0; i < initialHeight; i += 500) {
-                js.executeScript("window.scrollBy(0, 500);");
-                waitForIt(500); // Wait for new elements to load
+                js.executeScript("window.scrollBy(0, 300);");
+                waitForIt(1000); // Wait for new elements to load
             }
             long newHeight = (long) js.executeScript("return document.body.scrollHeight");
             if (newHeight == initialHeight || scrollCount > 10) { // Break if no new elements are loaded or scroll limit reached
