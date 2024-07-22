@@ -95,8 +95,8 @@ public class WebScraping {
         // Imprimindo quantidade de elementos encontrados para averiguar se não está havendo erros
         System.out.println("Nomes encontrados: " + nomeList.size());
         System.out.println("Preços encontrados: " + precoList.size());
-        System.out.println("Parcelas encontrados: " + parcelaList.size());
-        System.out.println("Imagens encontrados: " + imagemList.size());
+        System.out.println("Parcelas encontradas: " + parcelaList.size());
+        System.out.println("Imagens encontradas: " + imagemList.size());
         System.out.println("Produtos encontrados: " + produtos.size());
         System.out.println(produtos);
 
